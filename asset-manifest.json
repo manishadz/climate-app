@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/climate-app/static/css/main.28dd6631.chunk.css",
+    "main.js": "/climate-app/static/js/main.4bde353c.chunk.js",
+    "main.js.map": "/climate-app/static/js/main.4bde353c.chunk.js.map",
+    "runtime-main.js": "/climate-app/static/js/runtime-main.be94d77b.js",
+    "runtime-main.js.map": "/climate-app/static/js/runtime-main.be94d77b.js.map",
+    "static/js/2.2ec8a3f1.chunk.js": "/climate-app/static/js/2.2ec8a3f1.chunk.js",
+    "static/js/2.2ec8a3f1.chunk.js.map": "/climate-app/static/js/2.2ec8a3f1.chunk.js.map",
+    "static/js/3.299aa352.chunk.js": "/climate-app/static/js/3.299aa352.chunk.js",
+    "static/js/3.299aa352.chunk.js.map": "/climate-app/static/js/3.299aa352.chunk.js.map",
+    "index.html": "/climate-app/index.html",
+    "static/css/main.28dd6631.chunk.css.map": "/climate-app/static/css/main.28dd6631.chunk.css.map",
+    "static/js/2.2ec8a3f1.chunk.js.LICENSE.txt": "/climate-app/static/js/2.2ec8a3f1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/climate-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be94d77b.js",
+    "static/js/2.2ec8a3f1.chunk.js",
+    "static/css/main.28dd6631.chunk.css",
+    "static/js/main.4bde353c.chunk.js"
+  ]
+}
